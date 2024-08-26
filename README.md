@@ -44,5 +44,4 @@ The calculator emphasizes the use of "awesome inputs" that make it stand out fro
 # Contributions
 Contributions to the project are highly appreciated. If you find any bugs, have suggestions for improvements, or want to add new features, feel free to submit a pull request. Together, let's make this calculator project even better!
 
-# Credits
-Special thanks to the Brototype YouTube channel for the inspiring coding challenge that led to the creation of this Java Calculator.
+
